@@ -1,3 +1,5 @@
-/data/
+/data/Geolife/
+/data/dataset_tsmc2014/
+/Results/
 .DS_Store
 .ipynb_checkpoint
